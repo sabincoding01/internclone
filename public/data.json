@@ -1,0 +1,37 @@
+[
+    {
+        "category": "Ac Repair & Service",
+        "options": ["Ac install", "ac maintain"],
+        "image": "/assets/photos/ac-repair.jpg"
+    },
+    {
+        "category": "Full Home Painting",
+        "options": ["Interior painting", "Exterior painting"],
+        "image": "/assets/photos/home-painting.jpg"
+    },
+    {
+        "category": "Wall Panels",
+        "options": ["Panel installation", "Panel repair"],
+        "image": "/assets/photos/wall-panels.jpg"
+    },
+    {
+        "category": "Rooms/Walls Painting",
+        "options": ["Room painting", "Wall painting"],
+        "image": "/assets/photos/room-painting.jpg"
+    },
+    {
+        "category": "Native Water Purifier",
+        "options": ["Filter replacement", "System maintenance"],
+        "image": "/assets/photos/water-purifier.jpg"
+    },
+    {
+        "category": "Washing Machine Repair",
+        "options": ["Drum repair", "Motor replacement"],
+        "image": "/assets/photos/washing-machine.jpg"
+    },
+    {
+        "category": "Refrigerator Repair",
+        "options": ["Cooling issue repair", "Compressor replacement"],
+        "image": "/assets/photos/refrigerator-repair.jpg"
+    }
+]
